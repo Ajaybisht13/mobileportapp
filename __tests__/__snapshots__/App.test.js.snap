@@ -8,6 +8,9 @@ exports[`Renders Message 1`] = `
     }
   }
 >
+  <Text>
+    New cicd code
+  </Text>
   <View
     accessibilityRole="button"
     accessibilityState={
