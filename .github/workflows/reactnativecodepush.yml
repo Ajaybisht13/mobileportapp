@@ -14,10 +14,10 @@ jobs:
       - name: Code Checkout
         uses: actions/checkout@v3
 
-      - name: Use Node.js 18
+      - name: Use Node.js 21
         uses: actions/setup-node@v3
         with:
-          node-version: 18
+          node-version: 21
           cache: 'yarn'
 
       - name: Install yarn
