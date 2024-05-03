@@ -1,4 +1,4 @@
-name: reactnativecodepush
+name: reactnativecicdworkflow
 
 on:
   push:
